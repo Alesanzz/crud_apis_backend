@@ -36,11 +36,13 @@ CRUD OF E-COMMERCE
 - PUT: http://localhost:8080/api/products/2
 - DELETE: http://localhost:8080/api/products/18
 <br>
+
 - GET: http://localhost:8080/api/carts
 - GET: http://localhost:8080/api/carts/4
 - POST: http://localhost:8080/api/carts
 - POST: http://localhost:8080/api/carts/1/product/11
 - DELETE: http://localhost:8080/api/carts/4
+
 
 <h4>View from Postman</h4>
 
